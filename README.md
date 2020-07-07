@@ -1,2 +1,2 @@
-# office365
-Scripts para office365
+# office365-alias
+Scripts para inserir alias aos usuários do office 365.
